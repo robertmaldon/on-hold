@@ -28,7 +28,7 @@ The shell script will create a temporary folder named 'tmp' to do its work. The 
 
 If you're curious to how it all works take a look at [slideshow.sh](slideshow.sh) source.
 
-Check out the [on-hold.mp4](https://robertmaldon.github.io/on-hold/on-hold.mp4) sample video.
+Check out the [on-hold.mp4](on-hold.mp4) sample video.
 
 # Credits
 
